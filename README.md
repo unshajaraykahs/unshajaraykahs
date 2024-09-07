@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rajashnu Shakya.
-- 👀 I’m interested in Asp.net Core
 - 📫 How to reach me rajashnu99@gmail.com
 
 
